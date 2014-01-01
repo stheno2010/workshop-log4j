@@ -1,4 +1,8 @@
-workshop-log4j
-==============
+# workshop-log4j #
+=================
 
-workshop example log4j.
+log4jライブラリを使用したサンプルアプリケーション。
+
+#### 概要
+    ログ標準log4jライブラリのサンプル。
+    logbackライブラリと比較のために用意。
